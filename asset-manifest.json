@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/GuessTheNumber-ReactGame/static/css/main.e90d8a9e.css",
+    "main.js": "/GuessTheNumber-ReactGame/static/js/main.fae8481a.js",
+    "static/js/787.24de637d.chunk.js": "/GuessTheNumber-ReactGame/static/js/787.24de637d.chunk.js",
+    "index.html": "/GuessTheNumber-ReactGame/index.html",
+    "main.e90d8a9e.css.map": "/GuessTheNumber-ReactGame/static/css/main.e90d8a9e.css.map",
+    "main.fae8481a.js.map": "/GuessTheNumber-ReactGame/static/js/main.fae8481a.js.map",
+    "787.24de637d.chunk.js.map": "/GuessTheNumber-ReactGame/static/js/787.24de637d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e90d8a9e.css",
+    "static/js/main.fae8481a.js"
+  ]
+}
